@@ -2,6 +2,7 @@
 ## This is a simple Python script that allows the user to input via command line multiple Magic The Gathering Multiverse IDs, and exports it into a Markdown format for visual splendor.
 
 # Installation
+## I have uploaded a simple tutorial which can be found on [YouTube](https://youtu.be/xOAljqbMIWY)
 For this to run properly, you will need to install the following:
 > - Python 3 (this was run on 3.12.4 to be specific, and link is found [here](https://www.python.org/downloads/))
 > - MTGSDK (installs via Python3's pip function)
